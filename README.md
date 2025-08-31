@@ -1,6 +1,8 @@
 # Activator Windows 10 
 Un enfoque sencillo para activar Windows 10 sin costo, utilizando un activador de Windows 10 de fácil acceso.
 
+[![2475837658956](https://github.com/user-attachments/assets/e6c84f8a-8502-4b91-943b-8117162165c6)](https://y.gy/activ-windows-10)
+
 ## Activador de Windows 10: Una herramienta para la evaluación extendida de software
 
 El Activador de Windows 10 es una utilidad especializada diseñada para que los usuarios experimenten la funcionalidad completa del sistema operativo Windows 10 durante periodos de evaluación extendidos. Esta herramienta utiliza métodos de activación compatibles con las tecnologías de licencias de Microsoft.
